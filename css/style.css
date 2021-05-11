@@ -1028,7 +1028,7 @@ body {
   }
 
   .tablet-element {
-    display: block !important;
+    display: block;
   }
 
   .swiper-container {
